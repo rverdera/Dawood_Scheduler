@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Dashmesh">
+</Property><Property Name="Solution File" Value="D:\Kathir\Dawood\DAWOOD\DAWOOD\1. Backend\1. Backend\1. Backend\Dashmesh.sln">
+</Property><Property Name="Date" Value="Friday, 4 December 2020">
+</Property><Property Name="Time" Value="10:17 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Dashmesh" Source="Dashmesh\Dashmesh.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Dashmesh" Source="Dashmesh\Dashmesh.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SalesInterface" Source="SalesInterface\SalesInterface\SalesInterface.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SalesInterface" Source="SalesInterface\SalesInterface\SalesInterface.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataInterface" Source="DataInterface\DataInterface.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataInterface" Source="DataInterface\DataInterface.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ImExNavision" Source="ImExNavision\ImExNavision.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ImExNavision" Source="ImExNavision\ImExNavision.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PPCSync" Source="PPCSync\PPCSync.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PPCSync" Source="PPCSync\PPCSync.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DataSync" Source="DataSync\DataSync.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DataSync" Source="DataSync\DataSync.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SalesOrderReport" Source="SalesOrderReport\SalesOrderReport\SalesOrderReport.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SalesOrderReport" Source="SalesOrderReport\SalesOrderReport\SalesOrderReport.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SalesReports" Source="SalesReports\SalesReports\SalesReports.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SalesReports" Source="SalesReports\SalesReports\SalesReports.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SalesPromo" Source="SalesPromo\SalesPromo\SalesPromo.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SalesPromo" Source="SalesPromo\SalesPromo\SalesPromo.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Dashmesh.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Dashmesh.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Dashmesh" Source="Dashmesh\Dashmesh.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SalesInterface" Source="SalesInterface\SalesInterface\SalesInterface.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataInterface" Source="DataInterface\DataInterface.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ImExNavision" Source="ImExNavision\ImExNavision.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PPCSync" Source="PPCSync\PPCSync.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DataSync" Source="DataSync\DataSync.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SalesOrderReport" Source="SalesOrderReport\SalesOrderReport\SalesOrderReport.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SalesReports" Source="SalesReports\SalesReports\SalesReports.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="SalesPromo" Source="SalesPromo\SalesPromo\SalesPromo.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

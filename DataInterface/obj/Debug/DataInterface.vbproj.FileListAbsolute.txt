@@ -1,0 +1,20 @@
+E:\ Nixon\Dawood\1. Backend\DataInterface\bin\Debug\DataInterface.dll.config
+E:\ Nixon\Dawood\1. Backend\DataInterface\bin\Debug\DataInterface.dll
+E:\ Nixon\Dawood\1. Backend\DataInterface\bin\Debug\DataInterface.pdb
+E:\ Nixon\Dawood\1. Backend\DataInterface\bin\Debug\DataInterface.xml
+E:\ Nixon\Dawood\1. Backend\DataInterface\obj\Debug\ResolveAssemblyReference.cache
+E:\ Nixon\Dawood\1. Backend\DataInterface\obj\Debug\DataInterface.Resources.resources
+E:\ Nixon\Dawood\1. Backend\DataInterface\obj\Debug\DataInterface.vbproj.GenerateResource.Cache
+E:\ Nixon\Dawood\1. Backend\DataInterface\obj\Debug\DataInterface.dll
+E:\ Nixon\Dawood\1. Backend\DataInterface\obj\Debug\DataInterface.xml
+E:\ Nixon\Dawood\1. Backend\DataInterface\obj\Debug\DataInterface.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataInterface\bin\Debug\DataInterface.dll.config
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataInterface\bin\Debug\DataInterface.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataInterface\bin\Debug\DataInterface.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataInterface\bin\Debug\DataInterface.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataInterface\obj\Debug\DataInterface.Resources.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataInterface\obj\Debug\DataInterface.vbproj.GenerateResource.Cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataInterface\obj\Debug\DataInterface.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataInterface\obj\Debug\DataInterface.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataInterface\obj\Debug\DataInterface.pdb

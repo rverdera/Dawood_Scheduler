@@ -1,0 +1,304 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\bin\Debug\ImExNavision.dll.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\bin\Debug\ImExNavision.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\bin\Debug\ImExNavision.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\bin\Debug\ImExNavision.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\bin\Debug\en-US\ImExNavision.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\bin\Debug\fr-FR\ImExNavision.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\obj\Debug\ImExNavision.Imex.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\obj\Debug\ImExNavision.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\obj\Debug\ImExNavision.SelectList.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\obj\Debug\ImExNavision.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\obj\Debug\ImExNavision.ImExNavision.en-US.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\obj\Debug\ImExNavision.ImExNavision.fr-FR.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\obj\Debug\en-US\ImExNavision.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\obj\Debug\fr-FR\ImExNavision.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\obj\Debug\ImExNavision.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\obj\Debug\ImExNavision.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\ImExNavision\obj\Debug\ImExNavision.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\obj\Release\ImExNavision.Imex.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\obj\Release\ImExNavision.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\obj\Release\ImExNavision.SelectList.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\obj\Release\ImExNavision.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\obj\Release\ImExNavision.ImExNavision.en-US.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\obj\Release\ImExNavision.ImExNavision.fr-FR.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\bin\Debug\ImExNavision.dll.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\bin\Debug\ImExNavision.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\bin\Debug\ImExNavision.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\bin\Debug\ImExNavision.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\bin\Debug\en-US\ImExNavision.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\bin\Debug\fr-FR\ImExNavision.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\obj\Release\en-US\ImExNavision.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\obj\Release\fr-FR\ImExNavision.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\obj\Release\ImExNavision.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\obj\Release\ImExNavision.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\GoldKilli\ImExNavision\obj\Release\ImExNavision.pdb
+C:\Jagadish\LionCity\ImExNavision Lion City\bin\Debug\SalesInterface.dll
+C:\Jagadish\LionCity\ImExNavision Lion City\bin\Debug\SalesInterface.pdb
+C:\Jagadish\LionCity\ImExNavision Lion City\bin\Debug\SalesInterface.xml
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\ResolveAssemblyReference.cache
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\ImExNavision.Imex.resources
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\ImExNavision.ImportStatus.resources
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\ImExNavision.Resources.resources
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\ImExNavision.SelectList.resources
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\ImExNavision.vbproj.GenerateResource.Cache
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\ImExNavision.ImExNavision.en-US.resources
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\ImExNavision.ImExNavision.fr-FR.resources
+C:\Jagadish\LionCity\ImExNavision Lion City\bin\Debug\ImExNavision.dll.config
+C:\Jagadish\LionCity\ImExNavision Lion City\bin\Debug\ImExNavision.dll
+C:\Jagadish\LionCity\ImExNavision Lion City\bin\Debug\ImExNavision.pdb
+C:\Jagadish\LionCity\ImExNavision Lion City\bin\Debug\ImExNavision.xml
+C:\Jagadish\LionCity\ImExNavision Lion City\bin\Debug\en-US\ImExNavision.resources.dll
+C:\Jagadish\LionCity\ImExNavision Lion City\bin\Debug\fr-FR\ImExNavision.resources.dll
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\en-US\ImExNavision.resources.dll
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\fr-FR\ImExNavision.resources.dll
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\ImExNavision.dll
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\ImExNavision.xml
+C:\Jagadish\LionCity\ImExNavision Lion City\obj\Release\ImExNavision.pdb
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\bin\Debug\SalesInterface.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\bin\Debug\SalesInterface.pdb
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\bin\Debug\SalesInterface.xml
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\ResolveAssemblyReference.cache
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\ImExNavision.Imex.resources
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\ImExNavision.ImportStatus.resources
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\ImExNavision.Resources.resources
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\ImExNavision.SelectList.resources
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\ImExNavision.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\ImExNavision.ImExNavision.en-US.resources
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\ImExNavision.ImExNavision.fr-FR.resources
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\bin\Debug\ImEx.pdb
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\bin\Debug\ImEx.xml
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\bin\Debug\en-US\ImEx.resources.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\bin\Debug\fr-FR\ImEx.resources.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\en-US\ImEx.resources.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\fr-FR\ImEx.resources.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\ImEx.xml
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\ImEx.pdb
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\bin\Debug\ImEx.dll.config
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\bin\Debug\ImEx.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision Lion City\obj\Release\ImEx.dll
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\bin\Debug\ImEx.pdb
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\bin\Debug\ImEx.xml
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\bin\Debug\en-US\ImEx.resources.dll
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\bin\Debug\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\ImExNavision.Imex.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\ImExNavision.ImportStatus.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\ImExNavision.Resources.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\ImExNavision.SelectList.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\ImExNavision.vbproj.GenerateResource.Cache
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\ImExNavision.ImExNavision.en-US.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\ImExNavision.ImExNavision.fr-FR.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\en-US\ImEx.resources.dll
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\ImEx.xml
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\ImEx.pdb
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\ImExNavision.Imex.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\ImExNavision.ImportStatus.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\ImExNavision.Resources.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\ImExNavision.SelectList.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\ImExNavision.vbproj.GenerateResource.Cache
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\ImExNavision.ImExNavision.en-US.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\ImExNavision.ImExNavision.fr-FR.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\en-US\ImEx.resources.dll
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\ImEx.xml
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\ImEx.pdb
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Debug\ImEx.exe
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\obj\Release\ImEx.dll
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\bin\Debug\ImEx.exe.config
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\ImExNavision\bin\Debug\ImEx.exe
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\ImEx.xml
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\ImEx.pdb
+C:\Jagadish\FNNatural\ImExNavision\bin\Debug\ImEx.pdb
+C:\Jagadish\FNNatural\ImExNavision\bin\Debug\ImEx.xml
+C:\Jagadish\FNNatural\ImExNavision\bin\Debug\en-US\ImEx.resources.dll
+C:\Jagadish\FNNatural\ImExNavision\bin\Debug\fr-FR\ImEx.resources.dll
+C:\Jagadish\FNNatural\ImExNavision\bin\Debug\SalesInterface.dll
+C:\Jagadish\FNNatural\ImExNavision\bin\Debug\SalesInterface.pdb
+C:\Jagadish\FNNatural\ImExNavision\bin\Debug\SalesInterface.xml
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\ResolveAssemblyReference.cache
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\ImExNavision.Imex.resources
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\ImExNavision.ImportStatus.resources
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\ImExNavision.Resources.resources
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\ImExNavision.SelectList.resources
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\ImExNavision.vbproj.GenerateResource.Cache
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\ImExNavision.ImExNavision.en-US.resources
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\ImExNavision.ImExNavision.fr-FR.resources
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\en-US\ImEx.resources.dll
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\fr-FR\ImEx.resources.dll
+C:\Jagadish\FNNatural\ImExNavision\bin\Debug\ImEx.dll.config
+C:\Jagadish\FNNatural\ImExNavision\bin\Debug\ImEx.dll
+C:\Jagadish\FNNatural\ImExNavision\obj\Debug\ImEx.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\bin\Debug\ImEx.dll.config
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\bin\Debug\ImEx.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\bin\Debug\ImEx.pdb
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\bin\Debug\ImEx.xml
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\bin\Debug\en-US\ImEx.resources.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\bin\Debug\fr-FR\ImEx.resources.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\bin\Debug\SalesInterface.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\bin\Debug\SalesInterface.pdb
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\bin\Debug\SalesInterface.xml
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\ResolveAssemblyReference.cache
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\ImExNavision.Imex.resources
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\ImExNavision.ImportStatus.resources
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\ImExNavision.Resources.resources
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\ImExNavision.SelectList.resources
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\ImExNavision.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\ImExNavision.ImExNavision.en-US.resources
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\ImExNavision.ImExNavision.fr-FR.resources
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\en-US\ImEx.resources.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\fr-FR\ImEx.resources.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\ImEx.dll
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\ImEx.xml
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\ImEx.pdb
+C:\Indri\Current Project\F&Natural\FandNatural\ImExNavision\obj\Release\ImExNavision.status.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Debug\ImEx.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Debug\ImEx.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\bin\Debug\ImEx.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\bin\Debug\ImEx.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\bin\Debug\en-US\ImEx.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\bin\Debug\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Debug\ImExNavision.ImportStatus.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Debug\ImExNavision.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Debug\ImExNavision.status.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Debug\ImExNavision.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Debug\ImExNavision.ImExNavision.en-US.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Debug\ImExNavision.ImExNavision.fr-FR.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Debug\en-US\ImEx.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Debug\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Release\ImEx.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Release\ImEx.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Release\ImExNavision.ImportStatus.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Release\ImExNavision.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Release\ImExNavision.status.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Release\ImExNavision.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Release\ImExNavision.ImExNavision.en-US.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Release\ImExNavision.ImExNavision.fr-FR.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Release\en-US\ImEx.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Release\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Release\ImEx.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\obj\Debug\ImEx.exe
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\bin\Debug\ImEx.dll.config
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\ImExNavision\bin\Debug\ImEx.dll
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\obj\Release\ImEx.xml
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\obj\Release\ImEx.pdb
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\bin\Debug\ImEx.pdb
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\bin\Debug\ImEx.xml
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\bin\Debug\en-US\ImEx.resources.dll
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\bin\Debug\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\obj\Release\ImExNavision.ImportStatus.resources
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\obj\Release\ImExNavision.Resources.resources
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\obj\Release\ImExNavision.status.resources
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\obj\Release\ImExNavision.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\obj\Release\ImExNavision.ImExNavision.en-US.resources
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\obj\Release\ImExNavision.ImExNavision.fr-FR.resources
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\obj\Release\en-US\ImEx.resources.dll
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\obj\Release\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\bin\Debug\ImEx.dll.config
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\bin\Debug\ImEx.dll
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\ImExNavision\obj\Release\ImEx.dll
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\bin\Debug\ImEx.pdb
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\bin\Debug\ImEx.xml
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\bin\Debug\en-US\ImEx.resources.dll
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\bin\Debug\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\obj\Debug\ImExNavision.ImportStatus.resources
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\obj\Debug\ImExNavision.Resources.resources
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\obj\Debug\ImExNavision.status.resources
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\obj\Debug\ImExNavision.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\obj\Debug\ImExNavision.ImExNavision.en-US.resources
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\obj\Debug\ImExNavision.ImExNavision.fr-FR.resources
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\obj\Debug\en-US\ImEx.resources.dll
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\obj\Debug\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\obj\Debug\ImEx.xml
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\obj\Debug\ImEx.pdb
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\bin\Debug\ImEx.exe.config
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\bin\Debug\ImEx.exe
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\ImExNavision\obj\Debug\ImEx.exe
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Debug\ImEx.exe
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Debug\ImEx.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Debug\ImEx.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\bin\Debug\ImEx.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\bin\Debug\ImEx.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\bin\Debug\en-US\ImEx.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\bin\Debug\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Debug\ImExNavision.ImportStatus.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Debug\ImExNavision.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Debug\ImExNavision.status.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Debug\ImExNavision.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Debug\ImExNavision.ImExNavision.en-US.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Debug\ImExNavision.ImExNavision.fr-FR.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Debug\en-US\ImEx.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Debug\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\bin\Debug\ImEx.dll.config
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\bin\Debug\ImEx.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Release\ImExNavision.ImportStatus.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Release\ImExNavision.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Release\ImExNavision.status.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Release\ImExNavision.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Release\ImExNavision.ImExNavision.en-US.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Release\ImExNavision.ImExNavision.fr-FR.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Release\en-US\ImEx.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Release\fr-FR\ImEx.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Release\ImEx.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Release\ImEx.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\ImExNavision\obj\Release\ImEx.pdb
+D:\Dawood import\1. Backend\ImExNavisionJaga\bin\Debug\ImEx.exe.config
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Debug\ImEx.exe
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Debug\ImEx.xml
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Debug\ImEx.pdb
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Release\ResolveAssemblyReference.cache
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Release\ImExNavision.ImportStatus.resources
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Release\ImExNavision.Resources.resources
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Release\ImExNavision.status.resources
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Release\ImExNavision.vbproj.GenerateResource.Cache
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Release\ImExNavision.ImExNavision.en-US.resources
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Release\ImExNavision.ImExNavision.fr-FR.resources
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Release\ImEx.xml
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Release\ImEx.pdb
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Debug\ResolveAssemblyReference.cache
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Debug\ImExNavision.ImportStatus.resources
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Debug\ImExNavision.Resources.resources
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Debug\ImExNavision.status.resources
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Debug\ImExNavision.vbproj.GenerateResource.Cache
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Debug\ImExNavision.ImExNavision.en-US.resources
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Debug\ImExNavision.ImExNavision.fr-FR.resources
+D:\Dawood import\1. Backend\ImExNavisionJaga\bin\Debug\ImEx.exe
+D:\Dawood import\1. Backend\ImExNavisionJaga\bin\Debug\ImEx.pdb
+D:\Dawood import\1. Backend\ImExNavisionJaga\bin\Debug\ImEx.xml
+D:\Dawood import\1. Backend\ImExNavisionJaga\bin\Debug\en-US\ImEx.resources.dll
+D:\Dawood import\1. Backend\ImExNavisionJaga\bin\Debug\fr-FR\ImEx.resources.dll
+D:\Dawood import\1. Backend\ImExNavisionJaga\bin\Debug\SalesInterface.dll
+D:\Dawood import\1. Backend\ImExNavisionJaga\bin\Debug\SalesInterface.pdb
+D:\Dawood import\1. Backend\ImExNavisionJaga\bin\Debug\SalesInterface.xml
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Debug\en-US\ImEx.resources.dll
+D:\Dawood import\1. Backend\ImExNavisionJaga\obj\Debug\fr-FR\ImEx.resources.dll

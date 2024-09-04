@@ -1,0 +1,18 @@
+E:\ Nixon\Dawood\1. Backend\DataSync\bin\Debug\DataSync.dll
+E:\ Nixon\Dawood\1. Backend\DataSync\bin\Debug\DataSync.pdb
+E:\ Nixon\Dawood\1. Backend\DataSync\bin\Debug\DataSync.xml
+E:\ Nixon\Dawood\1. Backend\DataSync\obj\Debug\ResolveAssemblyReference.cache
+E:\ Nixon\Dawood\1. Backend\DataSync\obj\Debug\DataTransfer.Resources.resources
+E:\ Nixon\Dawood\1. Backend\DataSync\obj\Debug\DataSync.vbproj.GenerateResource.Cache
+E:\ Nixon\Dawood\1. Backend\DataSync\obj\Debug\DataSync.dll
+E:\ Nixon\Dawood\1. Backend\DataSync\obj\Debug\DataSync.xml
+E:\ Nixon\Dawood\1. Backend\DataSync\obj\Debug\DataSync.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataSync\bin\Debug\DataSync.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataSync\bin\Debug\DataSync.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataSync\bin\Debug\DataSync.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataSync\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataSync\obj\Debug\DataTransfer.Resources.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataSync\obj\Debug\DataSync.vbproj.GenerateResource.Cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataSync\obj\Debug\DataSync.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataSync\obj\Debug\DataSync.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\DataSync\obj\Debug\DataSync.pdb

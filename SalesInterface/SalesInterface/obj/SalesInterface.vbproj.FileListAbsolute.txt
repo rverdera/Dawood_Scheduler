@@ -1,0 +1,174 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\obj\Release\SalesInterface.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\obj\Release\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\obj\Release\SalesInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\obj\Release\SalesInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\obj\Release\SalesInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb
+C:\Indri\Current Project\LimSiang\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+C:\Indri\Current Project\LimSiang\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+C:\Indri\Current Project\LimSiang\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+C:\Indri\Current Project\LimSiang\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Indri\Current Project\LimSiang\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+C:\Indri\Current Project\LimSiang\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\LimSiang\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+C:\Indri\Current Project\LimSiang\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+C:\Indri\Current Project\LimSiang\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb
+C:\Indri\Current Project\CT\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+C:\Indri\Current Project\CT\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+C:\Indri\Current Project\CT\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+C:\Indri\Current Project\CT\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Indri\Current Project\CT\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+C:\Indri\Current Project\CT\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\CT\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+C:\Indri\Current Project\CT\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+C:\Indri\Current Project\CT\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb
+C:\Indri\Current Project\Crocodile\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+C:\Indri\Current Project\Crocodile\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+C:\Indri\Current Project\Crocodile\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+C:\Indri\Current Project\Crocodile\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Indri\Current Project\Crocodile\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+C:\Indri\Current Project\Crocodile\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\Crocodile\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+C:\Indri\Current Project\Crocodile\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+C:\Indri\Current Project\Crocodile\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb
+F:\Arkar\CurrentProject\Crocodile\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+F:\Arkar\CurrentProject\Crocodile\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+F:\Arkar\CurrentProject\Crocodile\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+F:\Arkar\CurrentProject\Crocodile\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+F:\Arkar\CurrentProject\Crocodile\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+F:\Arkar\CurrentProject\Crocodile\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+F:\Arkar\CurrentProject\Crocodile\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+F:\Arkar\CurrentProject\Crocodile\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+F:\Arkar\CurrentProject\Crocodile\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb
+F:\Arkar\CurrentProject\FNN\Backend\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+F:\Arkar\CurrentProject\FNN\Backend\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+F:\Arkar\CurrentProject\FNN\Backend\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+F:\Arkar\CurrentProject\FNN\Backend\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+F:\Arkar\CurrentProject\FNN\Backend\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+F:\Arkar\CurrentProject\FNN\Backend\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+F:\Arkar\CurrentProject\FNN\Backend\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+F:\Arkar\CurrentProject\FNN\Backend\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+F:\Arkar\CurrentProject\FNN\Backend\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\obj\Release\SalesInterface.Resources.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\obj\Release\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\obj\Release\SalesInterface.dll
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\obj\Release\SalesInterface.xml
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\obj\Release\SalesInterface.pdb
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+C:\Documents and Settings\jagadish\My Documents\Visual Studio 2005\My Projects\FNNatural\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb
+C:\Indri\Current Project\F&Natural\FandNatural\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+C:\Indri\Current Project\F&Natural\FandNatural\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+C:\Indri\Current Project\F&Natural\FandNatural\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+C:\Indri\Current Project\F&Natural\FandNatural\SalesInterface\SalesInterface\obj\Release\ResolveAssemblyReference.cache
+C:\Indri\Current Project\F&Natural\FandNatural\SalesInterface\SalesInterface\obj\Release\SalesInterface.Resources.resources
+C:\Indri\Current Project\F&Natural\FandNatural\SalesInterface\SalesInterface\obj\Release\SalesInterface.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\F&Natural\FandNatural\SalesInterface\SalesInterface\obj\Release\SalesInterface.dll
+C:\Indri\Current Project\F&Natural\FandNatural\SalesInterface\SalesInterface\obj\Release\SalesInterface.xml
+C:\Indri\Current Project\F&Natural\FandNatural\SalesInterface\SalesInterface\obj\Release\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\obj\Release\SalesInterface.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\obj\Release\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\obj\Release\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\obj\Release\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\obj\Release\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Kaiser Foods\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\obj\Release\SalesInterface.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\obj\Release\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\obj\Release\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\obj\Release\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesInterface\SalesInterface\obj\Release\SalesInterface.pdb
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\SalesInterface\SalesInterface\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\SalesInterface\SalesInterface\obj\Release\SalesInterface.Resources.resources
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\SalesInterface\SalesInterface\obj\Release\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\SalesInterface\SalesInterface\obj\Release\SalesInterface.dll
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\SalesInterface\SalesInterface\obj\Release\SalesInterface.xml
+C:\Documents and Settings\Gaurav\Desktop\Ban Seng\SalesInterface\SalesInterface\obj\Release\SalesInterface.pdb
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+C:\Documents and Settings\Gaurav\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\Desktop\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesInterface\SalesInterface\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.pdb
+D:\My Projects\Dashmesh\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+D:\My Projects\Dashmesh\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+D:\My Projects\Dashmesh\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+D:\My Projects\Dashmesh\SalesInterface\SalesInterface\obj\Release\ResolveAssemblyReference.cache
+D:\My Projects\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.Resources.resources
+D:\My Projects\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.vbproj.GenerateResource.Cache
+D:\My Projects\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.dll
+D:\My Projects\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.xml
+D:\My Projects\Dashmesh\SalesInterface\SalesInterface\obj\Release\SalesInterface.pdb
+D:\Dawood import\1. Backend\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+D:\Dawood import\1. Backend\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+D:\Dawood import\1. Backend\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+D:\Dawood import\1. Backend\SalesInterface\SalesInterface\obj\Release\ResolveAssemblyReference.cache
+D:\Dawood import\1. Backend\SalesInterface\SalesInterface\obj\Release\SalesInterface.Resources.resources
+D:\Dawood import\1. Backend\SalesInterface\SalesInterface\obj\Release\SalesInterface.vbproj.GenerateResource.Cache
+D:\Dawood import\1. Backend\SalesInterface\SalesInterface\obj\Release\SalesInterface.dll
+D:\Dawood import\1. Backend\SalesInterface\SalesInterface\obj\Release\SalesInterface.xml
+D:\Dawood import\1. Backend\SalesInterface\SalesInterface\obj\Release\SalesInterface.pdb

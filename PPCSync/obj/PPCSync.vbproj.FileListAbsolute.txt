@@ -1,0 +1,398 @@
+D:\My Projects\LSH\PPCSync\bin\debug\PPCSync.exe.config
+D:\My Projects\LSH\PPCSync\obj\Release\PPCSync.xml
+D:\My Projects\LSH\PPCSync\obj\Release\PPCSync.pdb
+D:\My Projects\LSH\PPCSync\bin\Debug\PPCSync.exe
+D:\My Projects\LSH\PPCSync\bin\Debug\PPCSync.pdb
+D:\My Projects\LSH\PPCSync\bin\Debug\PPCSync.xml
+D:\My Projects\LSH\PPCSync\bin\Debug\DataInterface.dll
+D:\My Projects\LSH\PPCSync\bin\Debug\SalesInterface.dll
+D:\My Projects\LSH\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+D:\My Projects\LSH\PPCSync\bin\Debug\SalesInterface.pdb
+D:\My Projects\LSH\PPCSync\bin\Debug\SalesInterface.xml
+D:\My Projects\LSH\PPCSync\bin\Debug\DataInterface.pdb
+D:\My Projects\LSH\PPCSync\bin\Debug\DataInterface.xml
+D:\My Projects\LSH\PPCSync\bin\Debug\DataSync.pdb
+D:\My Projects\LSH\PPCSync\bin\Debug\DataSync.xml
+D:\My Projects\LSH\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+D:\My Projects\LSH\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+D:\My Projects\LSH\PPCSync\obj\Debug\PPCSync.Resources.resources
+D:\My Projects\LSH\PPCSync\obj\Debug\PPCSync.status.resources
+D:\My Projects\LSH\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+D:\My Projects\LSH\PPCSync\obj\Debug\PPCSync.exe
+D:\My Projects\LSH\PPCSync\obj\Debug\PPCSync.xml
+D:\My Projects\LSH\PPCSync\obj\Debug\PPCSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\PPCSync.dll.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\PPCSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\PPCSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\PPCSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\DataInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\SalesInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\OpenNETCF.Desktop.Communication.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\SalesInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\SalesInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\DataInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\DataInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\DataSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\bin\debug\DataSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\obj\Release\PPCSync.PPCSync.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\obj\Release\PPCSync.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\obj\Release\PPCSync.status.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\obj\Release\PPCSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\obj\Release\PPCSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\obj\Release\PPCSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\LimSiang\PPCSync\obj\Release\PPCSync.pdb
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\PPCSync.dll.config
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\PPCSync.dll
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\PPCSync.pdb
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\PPCSync.xml
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\DataInterface.dll
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\SalesInterface.dll
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\SalesInterface.pdb
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\SalesInterface.xml
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\DataInterface.pdb
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\DataInterface.xml
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\DataSync.pdb
+C:\Indri\Current Project\LimSiang\PPCSync\bin\Debug\DataSync.xml
+C:\Indri\Current Project\LimSiang\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Indri\Current Project\LimSiang\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+C:\Indri\Current Project\LimSiang\PPCSync\obj\Debug\PPCSync.Resources.resources
+C:\Indri\Current Project\LimSiang\PPCSync\obj\Debug\PPCSync.status.resources
+C:\Indri\Current Project\LimSiang\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\LimSiang\PPCSync\obj\Debug\PPCSync.dll
+C:\Indri\Current Project\LimSiang\PPCSync\obj\Debug\PPCSync.xml
+C:\Indri\Current Project\LimSiang\PPCSync\obj\Debug\PPCSync.pdb
+C:\Indri\FNN\PPCSync\bin\Debug\DataInterface.dll
+C:\Indri\FNN\PPCSync\bin\Debug\SalesInterface.dll
+C:\Indri\FNN\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Indri\FNN\PPCSync\bin\Debug\SalesInterface.pdb
+C:\Indri\FNN\PPCSync\bin\Debug\SalesInterface.xml
+C:\Indri\FNN\PPCSync\bin\Debug\DataInterface.pdb
+C:\Indri\FNN\PPCSync\bin\Debug\DataInterface.xml
+C:\Indri\FNN\PPCSync\bin\Debug\DataSync.pdb
+C:\Indri\FNN\PPCSync\bin\Debug\DataSync.xml
+C:\Indri\FNN\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Indri\FNN\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+C:\Indri\FNN\PPCSync\obj\Debug\PPCSync.Resources.resources
+C:\Indri\FNN\PPCSync\obj\Debug\PPCSync.status.resources
+C:\Indri\FNN\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+C:\Indri\FNN\PPCSync\bin\Debug\PPCSyncSales.dll.config
+C:\Indri\FNN\PPCSync\bin\Debug\PPCSyncSales.dll
+C:\Indri\FNN\PPCSync\bin\Debug\PPCSyncSales.pdb
+C:\Indri\FNN\PPCSync\bin\Debug\PPCSyncSales.xml
+C:\Indri\FNN\PPCSync\obj\Debug\PPCSyncSales.dll
+C:\Indri\FNN\PPCSync\obj\Debug\PPCSyncSales.xml
+C:\Indri\FNN\PPCSync\obj\Debug\PPCSyncSales.pdb
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\bin\Debug\SalesInterface.pdb
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\bin\Debug\SalesInterface.xml
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\bin\Debug\DataInterface.pdb
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\bin\Debug\DataInterface.xml
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\bin\Debug\DataSync.pdb
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\bin\Debug\DataSync.xml
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\obj\Debug\PPCSync.Resources.resources
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\obj\Debug\PPCSync.status.resources
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\bin\Debug\PPCSync.dll.config
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\bin\Debug\PPCSync.dll
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\bin\Debug\PPCSync.pdb
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\bin\Debug\PPCSync.xml
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\obj\Debug\PPCSync.dll
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\obj\Debug\PPCSync.xml
+C:\Indri\Current Project\FNN\FandNatural\PPCSync\obj\Debug\PPCSync.pdb
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\PPCSync.pdb
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\PPCSync.xml
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\SalesInterface.pdb
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\SalesInterface.xml
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\DataInterface.pdb
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\DataInterface.xml
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\DataSync.pdb
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\DataSync.xml
+C:\Indri\Current Project\2T\Backend\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Indri\Current Project\2T\Backend\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+C:\Indri\Current Project\2T\Backend\PPCSync\obj\Debug\PPCSync.Resources.resources
+C:\Indri\Current Project\2T\Backend\PPCSync\obj\Debug\PPCSync.status.resources
+C:\Indri\Current Project\2T\Backend\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\2T\Backend\PPCSync\obj\Debug\PPCSync.xml
+C:\Indri\Current Project\2T\Backend\PPCSync\obj\Debug\PPCSync.pdb
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\DataSync.dll
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.xml
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\PPCSync.exe.config
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\obj\Debug\PPCSync.xml
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\obj\Debug\PPCSync.pdb
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\PPCSync.exe
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\PPCSync.pdb
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\PPCSync.xml
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\DataSync.dll
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.xml
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\SalesInterface.pdb
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\SalesInterface.xml
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\DataInterface.pdb
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\DataInterface.xml
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\DataSync.pdb
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\bin\Debug\DataSync.xml
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\obj\Debug\PPCSync.Resources.resources
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\obj\Debug\PPCSync.status.resources
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+E:\Arkar\CurrentProject\2T\Backend\PPCSync\obj\Debug\PPCSync.exe
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\PPCSync.exe.config
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\obj\Debug\PPCSync.xml
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\obj\Debug\PPCSync.pdb
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\PPCSync.exe
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\PPCSync.pdb
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\PPCSync.xml
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\DataSync.dll
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.xml
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\SalesInterface.pdb
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\SalesInterface.xml
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\DataInterface.pdb
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\DataInterface.xml
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\DataSync.pdb
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\bin\Debug\DataSync.xml
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\obj\Debug\PPCSync.Resources.resources
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\obj\Debug\PPCSync.status.resources
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+E:\Arkar\CurrentProject\2T\2T\Backend\PPCSync\obj\Debug\PPCSync.exe
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\PPCSync.dll.config
+C:\Indri\Current Project\2T\Backend\PPCSync\bin\Debug\PPCSync.dll
+C:\Indri\Current Project\2T\Backend\PPCSync\obj\Debug\PPCSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Debug\PPCSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Debug\PPCSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\bin\Debug\PPCSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\bin\Debug\PPCSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\bin\Debug\DataSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\bin\Debug\DataInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\bin\Debug\DataInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\bin\Debug\DataSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Debug\PPCSync.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Debug\PPCSync.status.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\obj\Debug\PPCSync.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\obj\Debug\PPCSync.status.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\obj\Debug\PPCSync.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\obj\Debug\PPCSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\obj\Debug\PPCSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\bin\Debug\PPCSync.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\bin\Debug\PPCSync.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\bin\Debug\PPCSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\bin\Debug\PPCSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\bin\Debug\DataSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\bin\Debug\DataInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\bin\Debug\DataInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Ban_Seng\PPCSync\bin\Debug\DataSync.xml
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\obj\Debug\PPCSync.xml
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\obj\Debug\PPCSync.pdb
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\PPCSync.pdb
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\PPCSync.xml
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\DataSync.dll
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.xml
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\SalesInterface.pdb
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\SalesInterface.xml
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\DataInterface.pdb
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\DataInterface.xml
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\DataSync.pdb
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\DataSync.xml
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\obj\Debug\PPCSync.Resources.resources
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\obj\Debug\PPCSync.status.resources
+E:\arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+E:\Arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\PPCSync.dll.config
+E:\Arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\bin\Debug\PPCSync.dll
+E:\Arkar\CurrentProject\BSW Backend\BanSengWine\PPCSync\obj\Debug\PPCSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Release\PPCSync.PPCSync.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Release\PPCSync.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Release\PPCSync.status.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Release\PPCSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Release\PPCSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Release\PPCSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Release\PPCSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\obj\Debug\PPCSync.exe
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\bin\debug\PPCSync.dll.config
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\PPCSync\bin\debug\PPCSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Debug\PPCSync.exe
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Debug\PPCSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Debug\PPCSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\obj\Debug\PPCSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\obj\Debug\PPCSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\obj\Debug\PPCSync.Password.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\obj\Debug\PPCSync.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\obj\Debug\PPCSync.status.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\bin\Debug\PPCSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\bin\Debug\PPCSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\bin\Debug\DataSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\bin\Debug\DataSync.xml
+E:\Accord\Backend\PPCSync\bin\Debug\PPCSync.exe.config
+E:\Accord\Backend\PPCSync\obj\Debug\PPCSync.exe
+E:\Accord\Backend\PPCSync\obj\Debug\PPCSync.xml
+E:\Accord\Backend\PPCSync\obj\Debug\PPCSync.pdb
+E:\Accord\Backend\PPCSync\bin\Debug\PPCSync.exe
+E:\Accord\Backend\PPCSync\bin\Debug\PPCSync.pdb
+E:\Accord\Backend\PPCSync\bin\Debug\PPCSync.xml
+E:\Accord\Backend\PPCSync\bin\Debug\DataSync.dll
+E:\Accord\Backend\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+E:\Accord\Backend\PPCSync\bin\Debug\DataSync.pdb
+E:\Accord\Backend\PPCSync\bin\Debug\DataSync.xml
+E:\Accord\Backend\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+E:\Accord\Backend\PPCSync\obj\Debug\PPCSync.Password.resources
+E:\Accord\Backend\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+E:\Accord\Backend\PPCSync\obj\Debug\PPCSync.Resources.resources
+E:\Accord\Backend\PPCSync\obj\Debug\PPCSync.status.resources
+E:\Accord\Backend\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\bin\debug\PPCSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\bin\debug\PPCSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\bin\debug\DataSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\bin\debug\OpenNETCF.Desktop.Communication.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\bin\debug\DataInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\bin\debug\DataInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\bin\debug\DataSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\bin\debug\DataSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Release\PPCSync.Password.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Release\PPCSync.PPCSync.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Release\PPCSync.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Release\PPCSync.status.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Release\PPCSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Release\PPCSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Release\PPCSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Debug\PPCSync.Password.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Debug\PPCSync.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Debug\PPCSync.status.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\obj\Release\PPCSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\bin\Debug\DataInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\bin\debug\PPCSync.dll.config
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Accord\Backend\PPCSync\bin\debug\PPCSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\bin\Debug\DataInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\bin\Debug\DataInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\bin\Debug\DataInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\bin\Debug\PPCSync.exe.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\bin\Debug\PPCSync.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\PPCSync\obj\Debug\PPCSync.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\obj\Debug\PPCSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\obj\Debug\PPCSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\bin\Debug\PPCSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\bin\Debug\PPCSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\bin\Debug\DataInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\bin\Debug\DataSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\bin\Debug\DataInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\bin\Debug\DataInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\bin\Debug\DataSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\obj\Debug\PPCSync.Password.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\obj\Debug\PPCSync.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\obj\Debug\PPCSync.status.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\bin\Debug\PPCSync.dll.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\bin\Debug\PPCSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\PPCSync\obj\Debug\PPCSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\bin\Debug\PPCSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\bin\Debug\PPCSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\bin\Debug\DataInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\bin\Debug\DataSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\bin\Debug\DataInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\bin\Debug\DataInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\bin\Debug\DataSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Debug\PPCSync.Password.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Debug\PPCSync.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Debug\PPCSync.status.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Debug\PPCSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Debug\PPCSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Debug\PPCSync.exe
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\bin\debug\PPCSync.dll.config
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\bin\debug\PPCSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.Password.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.PPCSync.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.status.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.pdb
+D:\My Projects\Dashmesh\PPCSync\bin\debug\PPCSync.dll.config
+D:\My Projects\Dashmesh\PPCSync\bin\debug\PPCSync.dll
+D:\My Projects\Dashmesh\PPCSync\bin\debug\PPCSync.pdb
+D:\My Projects\Dashmesh\PPCSync\bin\debug\PPCSync.xml
+D:\My Projects\Dashmesh\PPCSync\bin\debug\DataInterface.dll
+D:\My Projects\Dashmesh\PPCSync\bin\debug\DataSync.dll
+D:\My Projects\Dashmesh\PPCSync\bin\debug\DataInterface.pdb
+D:\My Projects\Dashmesh\PPCSync\bin\debug\DataInterface.xml
+D:\My Projects\Dashmesh\PPCSync\bin\debug\DataSync.pdb
+D:\My Projects\Dashmesh\PPCSync\bin\debug\DataSync.xml
+D:\My Projects\Dashmesh\PPCSync\obj\Release\ResolveAssemblyReference.cache
+D:\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.Password.resources
+D:\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.PPCSync.resources
+D:\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.Resources.resources
+D:\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.status.resources
+D:\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.vbproj.GenerateResource.Cache
+D:\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.dll
+D:\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.xml
+D:\My Projects\Dashmesh\PPCSync\obj\Release\PPCSync.pdb
+D:\My Projects\Dashmesh\PPCSync\bin\debug\SalesInterface.dll
+D:\My Projects\Dashmesh\PPCSync\bin\debug\SalesInterface.pdb
+D:\My Projects\Dashmesh\PPCSync\bin\debug\SalesInterface.xml
+D:\My Projects\Dashmesh\PPCSync\bin\debug\OpenNETCF.Desktop.Communication.dll
+D:\Dawood import\1. Backend\PPCSync\bin\debug\PPCSync.dll.config
+D:\Dawood import\1. Backend\PPCSync\bin\debug\PPCSync.dll
+D:\Dawood import\1. Backend\PPCSync\bin\debug\PPCSync.pdb
+D:\Dawood import\1. Backend\PPCSync\bin\debug\PPCSync.xml
+D:\Dawood import\1. Backend\PPCSync\bin\debug\DataInterface.dll
+D:\Dawood import\1. Backend\PPCSync\bin\debug\DataSync.dll
+D:\Dawood import\1. Backend\PPCSync\bin\debug\SalesInterface.dll
+D:\Dawood import\1. Backend\PPCSync\bin\debug\OpenNETCF.Desktop.Communication.dll
+D:\Dawood import\1. Backend\PPCSync\bin\debug\SalesInterface.pdb
+D:\Dawood import\1. Backend\PPCSync\bin\debug\SalesInterface.xml
+D:\Dawood import\1. Backend\PPCSync\bin\debug\DataInterface.pdb
+D:\Dawood import\1. Backend\PPCSync\bin\debug\DataInterface.xml
+D:\Dawood import\1. Backend\PPCSync\bin\debug\DataSync.pdb
+D:\Dawood import\1. Backend\PPCSync\bin\debug\DataSync.xml
+D:\Dawood import\1. Backend\PPCSync\obj\Release\ResolveAssemblyReference.cache
+D:\Dawood import\1. Backend\PPCSync\obj\Release\PPCSync.Password.resources
+D:\Dawood import\1. Backend\PPCSync\obj\Release\PPCSync.PPCSync.resources
+D:\Dawood import\1. Backend\PPCSync\obj\Release\PPCSync.Resources.resources
+D:\Dawood import\1. Backend\PPCSync\obj\Release\PPCSync.status.resources
+D:\Dawood import\1. Backend\PPCSync\obj\Release\PPCSync.vbproj.GenerateResource.Cache
+D:\Dawood import\1. Backend\PPCSync\obj\Release\PPCSync.dll
+D:\Dawood import\1. Backend\PPCSync\obj\Release\PPCSync.xml
+D:\Dawood import\1. Backend\PPCSync\obj\Release\PPCSync.pdb

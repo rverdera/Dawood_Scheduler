@@ -1,0 +1,58 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <System>
+    <LastOrdNo>2</LastOrdNo>
+    <PreOrdNo>AO</PreOrdNo>
+    <LenOrdNo>7</LenOrdNo>
+    <LastInvNo>0</LastInvNo>
+    <PreInvNo>AI</PreInvNo>
+    <LenInvNo>7</LenInvNo>
+    <LastRcptNo>5</LastRcptNo>
+    <PreRcptNo>AR</PreRcptNo>
+    <LenRcptNo>7</LenRcptNo>
+    <GST>7</GST>
+    <ServerIP />
+    <ServerPort>0</ServerPort>
+    <Online>N</Online>
+    <PDAID>A         </PDAID>
+    <Printer>20</Printer>
+    <PrintPort>6</PrintPort>
+    <PrintBaud>0</PrintBaud>
+    <CompanyName>STD</CompanyName>
+    <Header1>BLK 1775 GEYLANG BAHRU</Header1>
+    <Header2>#01-02 KALLANG DISTRIPARK</Header2>
+    <Header3>SINGAPORE 339704</Header3>
+    <Header4 />
+    <Tail1>Tel : +65 6842 3726</Tail1>
+    <Tail2 />
+    <Tail3 />
+    <Tail4 />
+    <LastRetNo>0</LastRetNo>
+    <PreRetNo>ART</PreRetNo>
+    <LenRetNo>7</LenRetNo>
+    <LastExNo>0</LastExNo>
+    <PreExNo>AEX</PreExNo>
+    <LenExNo>7</LenExNo>
+    <AgentID>1</AgentID>
+    <Location>MAIN</Location>
+    <LastITNo>0</LastITNo>
+    <PreITNo>AIT</PreITNo>
+    <LenITNo>7</LenITNo>
+    <LastCRNo>0</LastCRNo>
+    <PreCRNo>ACN</PreCRNo>
+    <LenCRNo>7</LenCRNo>
+    <SysDate>2010-08-03T00:00:00+08:00</SysDate>
+    <DotPrintPort>7</DotPrintPort>
+    <DotPrintBaud>19200</DotPrintBaud>
+    <LastSerNo>182</LastSerNo>
+    <LenSerNo>7</LenSerNo>
+    <PreSerNo>AS</PreSerNo>
+    <TradeDealPriceGroup>ALL</TradeDealPriceGroup>
+    <LastCustNo>5</LastCustNo>
+    <PreCustNo>AC</PreCustNo>
+    <LenCustNo>7</LenCustNo>
+    <CashCustId>C0411</CashCustId>
+    <ExchangePer>1</ExchangePer>
+    <DefCategory>Special</DefCategory>
+  </System>
+</NewDataSet>

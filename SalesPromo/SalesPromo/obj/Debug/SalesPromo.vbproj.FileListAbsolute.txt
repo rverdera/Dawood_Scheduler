@@ -1,0 +1,101 @@
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\ResolveAssemblyReference.cache
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Barcodes.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ConsignmentOrder.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ConsignmentQty.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesTargetByMonth.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Password.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Commission.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.CommMaster.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.DisplayOrder.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.GoodsInventory.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Inventory.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemPrAdjustments.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransaction.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransList.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyByItem.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyPerDollar.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionByItem.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionPerDollar.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTList.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTManagement.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Membership.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Resources.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.PO.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.POList.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.PostDatedCheque.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ReasonMaster.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesTargetQty.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ServiceMaster.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SetPassword.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SpecialItems.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SystemSettings.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.UserSettings.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ViewReport.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Voucher.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.VoucherList.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.en-US.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.fr-FR.resources
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.vbproj.GenerateResource.Cache
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.dll
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.xml
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\SalesPromo.pdb
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll.config
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\SalesPromo.pdb
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\SalesPromo.xml
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\en-US\SalesPromo.resources.dll
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\fr-FR\SalesPromo.resources.dll
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\DataInterface.dll
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\DataSync.dll
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\SalesInterface.dll
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\OpenNETCF.Desktop.Communication.dll
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\SalesInterface.pdb
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\SalesInterface.xml
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\DataSync.pdb
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\DataSync.xml
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\DataInterface.pdb
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\DataInterface.xml
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\bin\Debug\OpenNETCF.Desktop.Communication.xml
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\en-US\SalesPromo.resources.dll
+E:\ Nixon\Dawood\1. Backend\SalesPromo\SalesPromo\obj\Debug\fr-FR\SalesPromo.resources.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Barcodes.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ConsignmentOrder.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ConsignmentQty.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesTargetByMonth.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Password.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Commission.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.CommMaster.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.DisplayOrder.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.GoodsInventory.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Inventory.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemPrAdjustments.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransaction.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransList.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyByItem.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyPerDollar.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionByItem.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionPerDollar.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTList.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTManagement.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Membership.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Resources.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.PO.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.POList.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.PostDatedCheque.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ReasonMaster.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesTargetQty.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ServiceMaster.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SetPassword.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SpecialItems.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SystemSettings.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.UserSettings.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ViewReport.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Voucher.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.VoucherList.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.en-US.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.fr-FR.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.vbproj.GenerateResource.Cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesPromo\SalesPromo\obj\Debug\SalesPromo.pdb

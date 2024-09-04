@@ -1,0 +1,116 @@
+C:\Indri\Current Project\LimSiang\DataSync\bin\Debug\DataSync.dll
+C:\Indri\Current Project\LimSiang\DataSync\bin\Debug\DataSync.pdb
+C:\Indri\Current Project\LimSiang\DataSync\bin\Debug\DataSync.xml
+C:\Indri\Current Project\LimSiang\DataSync\bin\Debug\OpenNETCF.Desktop.Communication.xml
+C:\Indri\Current Project\LimSiang\DataSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Indri\Current Project\LimSiang\DataSync\obj\Debug\DataTransfer.Resources.resources
+C:\Indri\Current Project\LimSiang\DataSync\obj\Debug\DataSync.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\LimSiang\DataSync\obj\Debug\DataSync.dll
+C:\Indri\Current Project\LimSiang\DataSync\obj\Debug\DataSync.xml
+C:\Indri\Current Project\LimSiang\DataSync\obj\Debug\DataSync.pdb
+C:\Indri\Current Project\SimeDarby\DataSync\bin\Debug\DataSync.dll
+C:\Indri\Current Project\SimeDarby\DataSync\bin\Debug\DataSync.pdb
+C:\Indri\Current Project\SimeDarby\DataSync\bin\Debug\DataSync.xml
+C:\Indri\Current Project\SimeDarby\DataSync\bin\Debug\OpenNETCF.Desktop.Communication.xml
+C:\Indri\Current Project\SimeDarby\DataSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Indri\Current Project\SimeDarby\DataSync\obj\Debug\DataTransfer.Resources.resources
+C:\Indri\Current Project\SimeDarby\DataSync\obj\Debug\DataSync.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\SimeDarby\DataSync\obj\Debug\DataSync.dll
+C:\Indri\Current Project\SimeDarby\DataSync\obj\Debug\DataSync.xml
+C:\Indri\Current Project\SimeDarby\DataSync\obj\Debug\DataSync.pdb
+C:\Indri\Current Project\Crocodile\DataSync\bin\Debug\DataSync.dll
+C:\Indri\Current Project\Crocodile\DataSync\bin\Debug\DataSync.pdb
+C:\Indri\Current Project\Crocodile\DataSync\bin\Debug\DataSync.xml
+C:\Indri\Current Project\Crocodile\DataSync\bin\Debug\OpenNETCF.Desktop.Communication.xml
+C:\Indri\Current Project\Crocodile\DataSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Indri\Current Project\Crocodile\DataSync\obj\Debug\DataTransfer.Resources.resources
+C:\Indri\Current Project\Crocodile\DataSync\obj\Debug\DataSync.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\Crocodile\DataSync\obj\Debug\DataSync.dll
+C:\Indri\Current Project\Crocodile\DataSync\obj\Debug\DataSync.xml
+C:\Indri\Current Project\Crocodile\DataSync\obj\Debug\DataSync.pdb
+F:\Arkar\CurrentProject\Crocodile\DataSync\bin\Debug\DataSync.dll
+F:\Arkar\CurrentProject\Crocodile\DataSync\bin\Debug\DataSync.pdb
+F:\Arkar\CurrentProject\Crocodile\DataSync\bin\Debug\DataSync.xml
+F:\Arkar\CurrentProject\Crocodile\DataSync\bin\Debug\OpenNETCF.Desktop.Communication.xml
+F:\Arkar\CurrentProject\Crocodile\DataSync\obj\Debug\ResolveAssemblyReference.cache
+F:\Arkar\CurrentProject\Crocodile\DataSync\obj\Debug\DataTransfer.Resources.resources
+F:\Arkar\CurrentProject\Crocodile\DataSync\obj\Debug\DataSync.vbproj.GenerateResource.Cache
+F:\Arkar\CurrentProject\Crocodile\DataSync\obj\Debug\DataSync.dll
+F:\Arkar\CurrentProject\Crocodile\DataSync\obj\Debug\DataSync.xml
+F:\Arkar\CurrentProject\Crocodile\DataSync\obj\Debug\DataSync.pdb
+F:\Arkar\CurrentProject\FNN\Backend\DataSync\bin\Debug\DataSync.dll
+F:\Arkar\CurrentProject\FNN\Backend\DataSync\bin\Debug\DataSync.pdb
+F:\Arkar\CurrentProject\FNN\Backend\DataSync\bin\Debug\DataSync.xml
+F:\Arkar\CurrentProject\FNN\Backend\DataSync\bin\Debug\OpenNETCF.Desktop.Communication.xml
+F:\Arkar\CurrentProject\FNN\Backend\DataSync\obj\Debug\ResolveAssemblyReference.cache
+F:\Arkar\CurrentProject\FNN\Backend\DataSync\obj\Debug\DataTransfer.Resources.resources
+F:\Arkar\CurrentProject\FNN\Backend\DataSync\obj\Debug\DataSync.vbproj.GenerateResource.Cache
+F:\Arkar\CurrentProject\FNN\Backend\DataSync\obj\Debug\DataSync.dll
+F:\Arkar\CurrentProject\FNN\Backend\DataSync\obj\Debug\DataSync.xml
+F:\Arkar\CurrentProject\FNN\Backend\DataSync\obj\Debug\DataSync.pdb
+C:\Indri\Current Project\Phukom\Backend\DataSync\bin\Debug\DataSync.dll
+C:\Indri\Current Project\Phukom\Backend\DataSync\bin\Debug\DataSync.pdb
+C:\Indri\Current Project\Phukom\Backend\DataSync\bin\Debug\DataSync.xml
+C:\Indri\Current Project\Phukom\Backend\DataSync\bin\Debug\OpenNETCF.Desktop.Communication.xml
+C:\Indri\Current Project\Phukom\Backend\DataSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Indri\Current Project\Phukom\Backend\DataSync\obj\Debug\DataTransfer.Resources.resources
+C:\Indri\Current Project\Phukom\Backend\DataSync\obj\Debug\DataSync.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\Phukom\Backend\DataSync\obj\Debug\DataSync.dll
+C:\Indri\Current Project\Phukom\Backend\DataSync\obj\Debug\DataSync.xml
+C:\Indri\Current Project\Phukom\Backend\DataSync\obj\Debug\DataSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Phukom\Backend\DataSync\bin\Debug\DataSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Phukom\Backend\DataSync\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Phukom\Backend\DataSync\bin\Debug\DataSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Phukom\Backend\DataSync\bin\Debug\OpenNETCF.Desktop.Communication.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Phukom\Backend\DataSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Phukom\Backend\DataSync\obj\Debug\DataTransfer.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Phukom\Backend\DataSync\obj\Debug\DataSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Phukom\Backend\DataSync\obj\Debug\DataSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Phukom\Backend\DataSync\obj\Debug\DataSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Phukom\Backend\DataSync\obj\Debug\DataSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\DataSync\bin\Debug\DataSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\DataSync\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\DataSync\bin\Debug\DataSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\DataSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\DataSync\obj\Debug\DataTransfer.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\DataSync\obj\Debug\DataSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\DataSync\obj\Debug\DataSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\DataSync\obj\Debug\DataSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\DataSync\obj\Debug\DataSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\DataSync\bin\Debug\DataSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\DataSync\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\DataSync\bin\Debug\DataSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\DataSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\DataSync\obj\Debug\DataTransfer.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\DataSync\obj\Debug\DataSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\DataSync\obj\Debug\DataSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\DataSync\obj\Debug\DataSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Dashmesh\DataSync\obj\Debug\DataSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\bin\Debug\DataSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\bin\Debug\DataSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\obj\Debug\DataTransfer.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\obj\Debug\DataSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\obj\Debug\DataSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\obj\Debug\DataSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\obj\Debug\DataSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\bin\Release\DataSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\bin\Release\DataSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\bin\Release\DataSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\obj\Release\DataTransfer.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\obj\Release\DataSync.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\obj\Release\DataSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\obj\Release\DataSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\DataSync\obj\Release\DataSync.pdb
+D:\My Projects\Dashmesh\DataSync\bin\Release\DataSync.dll
+D:\My Projects\Dashmesh\DataSync\bin\Release\DataSync.pdb
+D:\My Projects\Dashmesh\DataSync\bin\Release\DataSync.xml
+D:\My Projects\Dashmesh\DataSync\obj\Release\ResolveAssemblyReference.cache
+D:\My Projects\Dashmesh\DataSync\obj\Release\DataTransfer.Resources.resources
+D:\My Projects\Dashmesh\DataSync\obj\Release\DataSync.vbproj.GenerateResource.Cache
+D:\My Projects\Dashmesh\DataSync\obj\Release\DataSync.dll
+D:\My Projects\Dashmesh\DataSync\obj\Release\DataSync.xml
+D:\My Projects\Dashmesh\DataSync\obj\Release\DataSync.pdb
+D:\My Projects\Dashmesh\DataSync\bin\Release\OpenNETCF.Desktop.Communication.dll

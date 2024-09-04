@@ -1,0 +1,32 @@
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.dll.config
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.dll
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.pdb
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.xml
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.dll
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.pdb
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.xml
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\obj\Debug\ResolveAssemblyReference.cache
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.Resources.resources
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.Daily.resources
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.DailySales.resources
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.ViewReport1.resources
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.vbproj.GenerateResource.Cache
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.dll
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.xml
+E:\ Nixon\Dawood\1. Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.dll.config
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.Resources.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.Daily.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.DailySales.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.ViewReport1.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.vbproj.GenerateResource.Cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.pdb

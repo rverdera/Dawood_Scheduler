@@ -1,0 +1,83 @@
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.dll.config
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.dll
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.pdb
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.xml
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.dll
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.pdb
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.xml
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\obj\Debug\ResolveAssemblyReference.cache
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.SalesOrderDetailRep.rpt
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.SalesOrderSummaryRep.rpt
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.Resources.resources
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.ViewReport1.resources
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.vbproj.GenerateResource.Cache
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.dll
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.xml
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.pdb
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.Daily.resources
+C:\Indri\Current Project\2T\Backend\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.DailySales.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.dll.config
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Release\SalesOrderReport.SalesOrderDetailRep.rpt
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Release\SalesOrderReport.SalesOrderSummaryRep.rpt
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Release\SalesOrderReport.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Release\SalesOrderReport.Daily.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Release\SalesOrderReport.DailySales.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Release\SalesOrderReport.ViewReport1.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Release\SalesOrderReport.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Release\SalesOrderReport.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Release\SalesOrderReport.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Release\SalesOrderReport.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.SalesOrderDetailRep.rpt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.SalesOrderSummaryRep.rpt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.Daily.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.DailySales.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.ViewReport1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.SalesOrderDetailRep.rpt
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.SalesOrderSummaryRep.rpt
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.Daily.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.DailySales.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.ViewReport1.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Ban Seng\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.dll.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\BSW\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.dll.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\bin\Debug\SalesOrderReport.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.SalesOrderDetailRep.rpt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.SalesOrderSummaryRep.rpt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.Daily.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.DailySales.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.ViewReport1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\Accord\SalesOrderReport\SalesOrderReport\obj\Debug\SalesOrderReport.pdb

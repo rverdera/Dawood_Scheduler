@@ -1,0 +1,184 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SalesPromo
+</name>
+</assembly>
+<members>
+<member name="T:SalesPromo.VoucherDataSet.VoucherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesPromo.VoucherDataSet.VoucherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesPromo.VoucherDataSet.VoucherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesPromo.VoucherDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SalesPromo.VoucherDataSetTableAdapters.VoucherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SalesPromo.MDTSalesDataSet.MDTDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesPromo.MDTSalesDataSet.MDTRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesPromo.MDTSalesDataSet.MDTRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesPromo.MDTSalesDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SalesPromo.MDTSalesDataSetTableAdapters.MDTTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet2.ItemTransDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet2.ItemTransRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet2.ItemTransRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet2TableAdapters.ItemTransTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SalesPromo.PODataSet.PODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesPromo.PODataSet.PORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesPromo.PODataSet.PORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesPromo.PODataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SalesPromo.PODataSetTableAdapters.POTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet4.SyncHistoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet4.SyncHistoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet4.SyncHistoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet4TableAdapters.SyncHistoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet1.SalesAgentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet1.SalesAgentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet1.SalesAgentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet1TableAdapters.SalesAgentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:SalesPromo.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SalesPromo.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SalesPromo.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet3.ItemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet3.ItemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet3.ItemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SalesPromo.SalesDataSet3TableAdapters.ItemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SalesPromo.ItemTrans.ItemTransDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesPromo.ItemTrans.ItemTransRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesPromo.ItemTrans.ItemTransRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesPromo.ItemTrans">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SalesPromo.ItemTransTableAdapters.ItemTransTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

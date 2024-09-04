@@ -1,0 +1,18 @@
+E:\ Nixon\Dawood\1. Backend\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+E:\ Nixon\Dawood\1. Backend\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+E:\ Nixon\Dawood\1. Backend\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+E:\ Nixon\Dawood\1. Backend\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+E:\ Nixon\Dawood\1. Backend\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+E:\ Nixon\Dawood\1. Backend\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+E:\ Nixon\Dawood\1. Backend\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+E:\ Nixon\Dawood\1. Backend\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+E:\ Nixon\Dawood\1. Backend\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesInterface\SalesInterface\bin\Debug\SalesInterface.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesInterface\SalesInterface\bin\Debug\SalesInterface.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesInterface\SalesInterface\bin\Debug\SalesInterface.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesInterface\SalesInterface\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesInterface\SalesInterface\obj\Debug\SalesInterface.Resources.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesInterface\SalesInterface\obj\Debug\SalesInterface.vbproj.GenerateResource.Cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesInterface\SalesInterface\obj\Debug\SalesInterface.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesInterface\SalesInterface\obj\Debug\SalesInterface.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesInterface\SalesInterface\obj\Debug\SalesInterface.pdb

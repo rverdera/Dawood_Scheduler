@@ -1,0 +1,46 @@
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\PPCSync.dll.config
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\PPCSync.dll
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\PPCSync.pdb
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\PPCSync.xml
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\DataInterface.dll
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\DataSync.dll
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\SalesInterface.dll
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\SalesInterface.pdb
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\SalesInterface.xml
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\DataInterface.pdb
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\DataInterface.xml
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\DataSync.pdb
+E:\ Nixon\Dawood\1. Backend\PPCSync\bin\Debug\DataSync.xml
+E:\ Nixon\Dawood\1. Backend\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+E:\ Nixon\Dawood\1. Backend\PPCSync\obj\Debug\PPCSync.Password.resources
+E:\ Nixon\Dawood\1. Backend\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+E:\ Nixon\Dawood\1. Backend\PPCSync\obj\Debug\PPCSync.Resources.resources
+E:\ Nixon\Dawood\1. Backend\PPCSync\obj\Debug\PPCSync.status.resources
+E:\ Nixon\Dawood\1. Backend\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+E:\ Nixon\Dawood\1. Backend\PPCSync\obj\Debug\PPCSync.dll
+E:\ Nixon\Dawood\1. Backend\PPCSync\obj\Debug\PPCSync.xml
+E:\ Nixon\Dawood\1. Backend\PPCSync\obj\Debug\PPCSync.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\PPCSync.dll.config
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\PPCSync.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\PPCSync.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\PPCSync.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\DataInterface.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\DataSync.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\SalesInterface.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\OpenNETCF.Desktop.Communication.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\SalesInterface.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\SalesInterface.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\DataInterface.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\DataInterface.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\DataSync.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\bin\Debug\DataSync.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\obj\Debug\PPCSync.Password.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\obj\Debug\PPCSync.PPCSync.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\obj\Debug\PPCSync.Resources.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\obj\Debug\PPCSync.status.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\obj\Debug\PPCSync.vbproj.GenerateResource.Cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\obj\Debug\PPCSync.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\obj\Debug\PPCSync.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\PPCSync\obj\Debug\PPCSync.pdb

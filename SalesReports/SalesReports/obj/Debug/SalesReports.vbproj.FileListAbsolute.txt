@@ -1,0 +1,182 @@
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\Copy of ItemCatalogRep.rpt
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\Copy of ListItemCatalogRep.rpt
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\GRNRptByDet.rpt
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\InventoryRep.rpt
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\ListItemCatalogRep.rpt
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\ItemCatalogRep.rpt
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\StockTakeRep.rpt
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\OverallDifferenceRep.rpt
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\OverallDifferenceRep.vb
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\Copy of ItemCatalogRep.vb
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\Copy of ListItemCatalogRep.vb
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\GRNRptByDet.vb
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\InventoryRep.vb
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\ListItemCatalogRep.vb
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\ItemCatalogRep.vb
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\StockTakeRep.vb
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\GRNRptBySum.rpt
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\GRNRptBySum.vb
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\SalesReports.dll.config
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\SalesReports.dll
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\SalesReports.pdb
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\SalesReports.xml
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\DataInterface.dll
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\SalesInterface.dll
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\SalesInterface.pdb
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\SalesInterface.xml
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\DataInterface.pdb
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\bin\Debug\DataInterface.xml
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\ResolveAssemblyReference.cache
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.Activity.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.AgentCustDet.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.AgingDiff.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.Aging.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.AllReports.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.AssetTrans.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.BalanceStock.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.BalanceStockDet.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.BalanceStockNAV.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.Commission.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.OverallDifference.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.GRNReport.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.Inventory.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.PayCollectionExcel.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.ExceptionReport.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.Delivery.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.ExchangeFOCList.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.ItemCatalog.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.NewCust.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.PayColSum.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.PaymPostDated.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.ProductListToPrint.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.CustVisitByAmt.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.Daily.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.DailySales.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.DailySalesCust.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.DailySalesInv.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.DailySalesOrder.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.Effective.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.EffectiveByCategory.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.Frequency.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.GoodsCheckINOUT.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.GoodsExchange.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.GoodsReturn.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.MissingInv.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.MonthlyEffectiveByCategory.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.MonthlySales.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.MonthlyStat.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.MonthlyStatement.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.Resources.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.OutstandingPayment.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.PayColInterval.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.PayCollection.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.ProductSalesSummary.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.ReturnNote.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.SalesAnalysis.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.SalesByItem.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.SalesReport.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.Sample.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.Schedule.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.ServiceReport.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.status.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.StockOrder.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.StockTake.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.UnpaidInvoice.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.VanDailySales.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.ViewReport.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.VoidInvoice.resources
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.vbproj.GenerateResource.Cache
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.dll
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.xml
+E:\ Nixon\Dawood\1. Backend\SalesReports\SalesReports\obj\Debug\SalesReports.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\OverallDifferenceRep.rpt
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\Copy of ItemCatalogRep.rpt
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\Copy of ListItemCatalogRep.rpt
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\GRNRptByDet.rpt
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\InventoryRep.rpt
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\ListItemCatalogRep.rpt
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\ItemCatalogRep.rpt
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\StockTakeRep.rpt
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\OverallDifferenceRep.vb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\Copy of ItemCatalogRep.vb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\Copy of ListItemCatalogRep.vb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\GRNRptByDet.vb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\InventoryRep.vb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\ListItemCatalogRep.vb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\ItemCatalogRep.vb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\StockTakeRep.vb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\GRNRptBySum.rpt
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\GRNRptBySum.vb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\SalesReports.dll.config
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\SalesReports.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\SalesReports.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\SalesReports.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\DataInterface.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\SalesInterface.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\SalesInterface.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\SalesInterface.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\DataInterface.pdb
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\bin\Debug\DataInterface.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\ResolveAssemblyReference.cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.Activity.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.AgentCustDet.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.AgingDiff.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.Aging.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.AllReports.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.AssetTrans.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.BalanceStock.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.BalanceStockDet.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.BalanceStockNAV.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.Commission.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.OverallDifference.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.GRNReport.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.Inventory.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.PayCollectionExcel.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.ExceptionReport.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.Delivery.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.ExchangeFOCList.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.ItemCatalog.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.NewCust.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.PayColSum.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.PaymPostDated.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.ProductListToPrint.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.CustVisitByAmt.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.Daily.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.DailySales.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.DailySalesCust.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.DailySalesInv.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.DailySalesOrder.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.Effective.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.EffectiveByCategory.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.Frequency.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.GoodsCheckINOUT.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.GoodsExchange.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.GoodsReturn.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.MissingInv.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.MonthlyEffectiveByCategory.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.MonthlySales.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.MonthlyStat.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.MonthlyStatement.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.Resources.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.OutstandingPayment.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.PayColInterval.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.PayCollection.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.ProductSalesSummary.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.ReturnNote.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.SalesAnalysis.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.SalesByItem.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.SalesReport.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.Sample.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.Schedule.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.ServiceReport.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.status.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.StockOrder.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.StockTake.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.UnpaidInvoice.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.VanDailySales.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.ViewReport.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.VoidInvoice.resources
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.vbproj.GenerateResource.Cache
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.dll
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.xml
+D:\Codes - WORK\LIVE\Schedulers\DAWOOD - IMPORT SCHEDULER\SalesReports\SalesReports\obj\Debug\SalesReports.pdb

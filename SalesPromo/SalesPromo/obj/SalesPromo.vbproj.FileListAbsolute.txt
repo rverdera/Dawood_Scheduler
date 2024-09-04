@@ -1,0 +1,354 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\en-US\SalesPromo.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\fr-FR\SalesPromo.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Commission.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.CommMaster.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.DisplayOrder.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.GoodsInventory.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Inventory.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemPrAdjustments.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransaction.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransList.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyByItem.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyPerDollar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionByItem.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionPerDollar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTManagement.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Membership.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SystemSettings.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.UserSettings.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ViewReport.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Voucher.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.VoucherList.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.en-US.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.fr-FR.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\en-US\SalesPromo.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\fr-FR\SalesPromo.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.PO.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.POList.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\ResolveAssemblyReference.cache
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Commission.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.CommMaster.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.DisplayOrder.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.GoodsInventory.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Inventory.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemPrAdjustments.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransaction.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransList.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyByItem.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyPerDollar.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionByItem.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionPerDollar.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTList.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTManagement.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Membership.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Resources.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.PO.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.POList.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ReasonMaster.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ServiceMaster.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SystemSettings.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.UserSettings.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ViewReport.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Voucher.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.VoucherList.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.vbproj.GenerateResource.Cache
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.en-US.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.fr-FR.resources
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.dll
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.xml
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.pdb
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll.config
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.pdb
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.xml
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\en-US\SalesPromo.resources.dll
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\fr-FR\SalesPromo.resources.dll
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\DataInterface.dll
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\DataSync.dll
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.dll
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.pdb
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.xml
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\DataSync.pdb
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\DataSync.xml
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\DataInterface.pdb
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\DataInterface.xml
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\en-US\SalesPromo.resources.dll
+C:\Jagadish\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\fr-FR\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll.config
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\en-US\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\fr-FR\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\DataInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\DataSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\DataSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\DataInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\bin\Debug\DataInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Commission.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.CommMaster.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.DisplayOrder.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.GoodsInventory.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Inventory.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemPrAdjustments.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransaction.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyByItem.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyPerDollar.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionByItem.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionPerDollar.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTManagement.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Membership.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.PO.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.POList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.PostDatedCheque.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ReasonMaster.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesTargetQty.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ServiceMaster.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SystemSettings.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.UserSettings.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ViewReport.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Voucher.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.VoucherList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.en-US.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.fr-FR.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\en-US\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\fr-FR\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer BackendArul\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SpecialItems.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\DataInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\DataSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\DataSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\DataInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\DataInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Commission.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.CommMaster.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.DisplayOrder.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.GoodsInventory.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Inventory.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemPrAdjustments.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransaction.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyByItem.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyPerDollar.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionByItem.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionPerDollar.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTManagement.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Membership.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.PO.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.POList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.PostDatedCheque.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ReasonMaster.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesTargetQty.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ServiceMaster.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SpecialItems.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SystemSettings.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.UserSettings.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ViewReport.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Voucher.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.VoucherList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.en-US.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.fr-FR.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.Commission.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.CommMaster.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.DisplayOrder.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.GoodsInventory.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.Inventory.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.ItemPrAdjustments.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.ItemTransaction.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.ItemTransList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.LoyaltyByItem.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.LoyaltyPerDollar.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.LoyaltyRedemptionByItem.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.LoyaltyRedemptionPerDollar.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.MDTList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.MDTManagement.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.Membership.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.PO.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.POList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.PostDatedCheque.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.ReasonMaster.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.SalesTargetQty.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.ServiceMaster.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.SpecialItems.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.SystemSettings.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.UserSettings.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.ViewReport.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.Voucher.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.VoucherList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.SalesPromo.en-US.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\x64\Debug\SalesPromo.SalesPromo.fr-FR.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll.config
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\en-US\SalesPromo.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\fr-FR\SalesPromo.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\DataInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\DataSync.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\DataSync.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\DataInterface.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\DataInterface.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Commission.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.CommMaster.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.DisplayOrder.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.GoodsInventory.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Inventory.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemPrAdjustments.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransaction.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ItemTransList.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyByItem.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyPerDollar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionByItem.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.LoyaltyRedemptionPerDollar.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTList.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.MDTManagement.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Membership.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.PO.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.POList.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.PostDatedCheque.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ReasonMaster.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesTargetQty.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ServiceMaster.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SpecialItems.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SystemSettings.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.UserSettings.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ViewReport.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Voucher.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.VoucherList.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.en-US.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesPromo.fr-FR.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\en-US\SalesPromo.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\fr-FR\SalesPromo.resources.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Password.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesTargetByMonth.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ConsignmentQty.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.BankInSlipRpt.rpt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2005\Projects\Backend Project\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Barcodes.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.BankInSlipRpt.rpt
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Barcodes.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ConsignmentQty.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SalesTargetByMonth.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.Password.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll.config
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\SalesPromo.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\en-US\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\bin\Debug\fr-FR\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\en-US\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\fr-FR\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.ConsignmentOrder.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\SalesServer Backend\Modules\SalesPromo\SalesPromo\obj\Debug\SalesPromo.SetPassword.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll.config
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\SalesPromo.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\SalesPromo.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\SalesPromo.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\en-US\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\fr-FR\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\DataInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\DataSync.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\SalesInterface.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\OpenNETCF.Desktop.Communication.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\SalesInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\SalesInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\OpenNETCF.Desktop.Communication.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\DataSync.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\DataSync.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\DataInterface.pdb
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\bin\Debug\DataInterface.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.BankInSlipRpt.rpt
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.Barcodes.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.ConsignmentOrder.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.ConsignmentQty.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.SalesTargetByMonth.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.Password.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.Commission.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.CommMaster.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.DisplayOrder.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.GoodsInventory.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.Inventory.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.ItemPrAdjustments.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.ItemTransaction.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.ItemTransList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.LoyaltyByItem.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.LoyaltyPerDollar.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.LoyaltyRedemptionByItem.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.LoyaltyRedemptionPerDollar.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.MDTList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.MDTManagement.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.Membership.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.Resources.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.PO.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.POList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.PostDatedCheque.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.ReasonMaster.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.SalesTargetQty.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.ServiceMaster.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.SetPassword.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.SpecialItems.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.SystemSettings.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.UserSettings.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.ViewReport.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.Voucher.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.VoucherList.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.SalesPromo.en-US.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.SalesPromo.fr-FR.resources
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\en-US\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\fr-FR\SalesPromo.resources.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.dll
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.xml
+C:\Documents and Settings\Jagadish.IBIZCS-SG\My Documents\Visual Studio 2005\My Projects\Dashmesh\SalesPromo\SalesPromo\obj\Release\SalesPromo.pdb

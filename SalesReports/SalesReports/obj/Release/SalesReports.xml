@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SalesReports
+</name>
+</assembly>
+<members>
+<member name="T:SalesReports.SalesDataSet.SyncHistoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesReports.SalesDataSet.SyncHistoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesReports.SalesDataSet.SyncHistoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesReports.SalesDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SalesReports.SalesDataSetTableAdapters.SyncHistoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:SalesReports.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SalesReports.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SalesReports.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SalesReports.SalesDataSet2.SyncHistoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesReports.SalesDataSet2.SyncHistoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesReports.SalesDataSet2.SyncHistoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesReports.SalesDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SalesReports.SalesDataSet2TableAdapters.SyncHistoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SalesReports.SalesDataSet1.SyncHistoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SalesReports.SalesDataSet1.SyncHistoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SalesReports.SalesDataSet1.SyncHistoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SalesReports.SalesDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SalesReports.SalesDataSet1TableAdapters.SyncHistoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

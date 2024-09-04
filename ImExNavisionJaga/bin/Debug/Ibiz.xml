@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<configuration>
+      <availableclasses key="Customers.Customers" value="Customer.dll~Customer.DataForm"></availableclasses>
+      <availableclasses key="Customers.Price Group" value="PriceGroup.dll~PriceGroup.DataList"></availableclasses>
+      <availableclasses key="Customers.Zone" value="Zone.dll~Zone.DataList"></availableclasses>
+      <availableclasses key="Products.Products" value="Product.dll~Product.DataForm"></availableclasses>
+      <availableclasses key="Products.Location" value="Location.dll~Location.DataList"></availableclasses>
+	<availableclasses key="Products.UOM" value="Uom.dll~Uom.DataList"></availableclasses>
+	<availableclasses key="Products.ItemPrice" value="ItemPrice.dll~ItemPrice.DataList"></availableclasses>
+      <availableclasses key="Sales.Orders" value="Orders.dll~Orders.SalesOrder"></availableclasses>
+      <availableclasses key="Sales.Invoices" value="Invoice.dll~Invoice.DataFormInv"></availableclasses>
+      <availableclasses key="Sales.GoodsExchange" value="SalesPromo.dll~SalesPromo.GoodsExchange"></availableclasses>
+      <availableclasses key="Sales.GoodsReturn" value="SalesPromo.dll~SalesPromo.GoodsReturn"></availableclasses>
+      <availableclasses key="Inventory.Item Transaction" value="SalesPromo.dll~SalesPromo.ItemTransaction"></availableclasses>
+      <availableclasses key="Inventory.Inventory" value="SalesPromo.dll~SalesPromo.Inventory"></availableclasses>
+      <availableclasses key="Payments.Payments" value="Receipt.dll~Receipt.Payment"></availableclasses>
+      <availableclasses key="Payments.Payment Terms" value="PayTerms.dll~PayTerms.DataList"></availableclasses>
+      <availableclasses key="Payments.Payment Methods" value="PayMethod.dll~PayMethod.DataList"></availableclasses>
+      <availableclasses key="Data Transfer.Import/Export" value="ImExNavision.dll~ImExNavision.ImEx"></availableclasses>
+      <availableclasses key="Data Transfer.Upload/Download" value="UpDown.dll~UpDown.Download"></availableclasses>
+      <availableclasses key="Reports.Daily Sales" value="SalesReports.dll~SalesReports.DailySales"></availableclasses>
+      <availableclasses key="Reports.Daily Sales Order" value="SalesReports.dll~SalesReports.DailySalesOrder"></availableclasses>
+      <availableclasses key="Reports.Goods Return" value="SalesReports.dll~SalesReports.GoodsReturn"></availableclasses>
+      <availableclasses key="Reports.Outstanding Payment" value="SalesReports.dll~SalesReports.OutstandingPayment"></availableclasses>
+	<availableclasses key="Reports.Payment Collection" value="SalesReports.dll~SalesReports.PayCollection"></availableclasses>
+	<availableclasses key="Reports.Payment Collection Interval" value="SalesReports.dll~SalesReports.PayColInterval"></availableclasses>
+      <availableclasses key="Reports.Aging Sum" value="SalesReports.dll~SalesReports.AgingDiff"></availableclasses>
+	<availableclasses key="Reports.Sales Report" value="SalesReports.dll~SalesReports.SalesReport"></availableclasses>
+	<availableclasses key="Reports.Payment Collection" value="SalesReports.dll~SalesReports.PayCollection"></availableclasses>
+	<availableclasses key="Reports.Unpaid Invoices" value="SalesReports.dll~SalesReports.UnpaidInvoice"></availableclasses>
+	<availableclasses key="Reports.Void Invoices" value="SalesReports.dll~SalesReports.VoidInvoice"></availableclasses>
+	<availableclasses key="Administrator.MDT" value="SalesPromo.dll~SalesPromo.MDTManagement"></availableclasses>
+	<availableclasses key="Administrator.User Settings" value="Salespromo.dll~SalesPromo.UserSettings"></availableclasses>
+      <availableclasses key="Administrator.Sales Persons" value="SalesAgent.dll~SalesAgent.DataForm"></availableclasses>
+<CompanyName key="CompanyName" value="Ban Seng Wine Pte Ltd$"></CompanyName>
+<SecondCompanyName key="SecondCompanyName" value="Ban Seng Wine-test$"></SecondCompanyName>
+      <connectionStrings name="SalesServer.My.MySettings.ConnectionString" connectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Sales;Integrated Security=True" />
+      <SalesconnectionStringTransfer name="SalesServer.My.MySettings.ConnectionString" connectionString="Data Source=.\SQLEXPRESS;Initial Catalog=Sales;Integrated Security=True" />
+<NavConnectionString name="salesserver.My.Mysettings.ConnectionString" connectionString="Data Source=GAURAV-152D4523\SQLRUNTIME;Initial Catalog=Dashmesh_Prod;User ID=sa;Password=ibizmobile"/>
+</configuration>
