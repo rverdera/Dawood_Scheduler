@@ -1631,7 +1631,7 @@ Public Class ImportStatus
             End While
             dtr.Close()
             ExecuteSQL("Update orditem set UOM=Item.BaseUOM from orditem, Item where orditem.ItemNo= Item.ItemNo and OrdNo=" & SafeSQL(aPo.Ordno))
-
+            'Test
         Next
 
         If dtr Is Nothing = False Then
@@ -2044,4 +2044,7 @@ Public Class ImportStatus
         End If
     End Sub
 
-    End Class
+    Private Sub dgvStatus_CellContentClick(ByVal sender As System.Object, ByVal e As System.Windows.Forms.DataGridViewCellEventArgs) Handles dgvStatus.CellContentClick
+
+    End Sub
+End Class
